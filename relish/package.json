@@ -1,0 +1,9 @@
+{
+  "name": "glint",
+  "private": true,
+  "type": "module",
+  "description": "Spot, photograph and share local art: painted trash cans, hidden pieces, nature's art.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
